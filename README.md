@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Muneeb shahzad
-- 👀 I’m interested in ... software enginering
-- 🌱 I’m currently learning ... web development
+- 👋 Hi, I’m Muneeb shahzad
+- 👀 I’m interested in "software enginering"
+- 🌱 I’m currently learning "web development"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
