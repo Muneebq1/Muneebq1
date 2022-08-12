@@ -32,7 +32,7 @@
 	<a href="https://www.fiverr.com/shehza_d" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
 			height="41" width="41" /></a>
 </p>
-
+<hr>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 <p align="left">
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
