@@ -5,15 +5,10 @@
 &nbsp;&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muneebq1&label=Profile%20views&color=0e75b6&style=flat" alt="Muneebq1" /> </p>
 
 
-- 👀  I am interested in Programming, Cyber Security, BlockChain(smart contracts), Photo/Video Editing and in Bug Bounty
-and Hackathons <br>
-- 🌱 I’m currently learning <b>Web Development, JavaScript</b><br>
-- 💞️ Always looking forward to collaborate on projects<br>
-- 💻 Dedicated to Work and seeking Experiences <br>
-- ⛳️ MY 2022 Goal is Mastering JavaScript<br>
-
-
-
+- 🌱 I’m currently learning <b>** Web Development, JavaScript **</b><br><br>
+- ⛳️ MY 2022 Goal is <b>** Mastering JavaScript & Reactjs **</b><br><br>
+- 💞️ Always looking forward to collaborate on projects<br><br>
+- 💻 Dedicated to Work and seeking Experiences <br><br>
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 <p align="left">
