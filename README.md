@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m Muneeb shahzad</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
-<img align="right" alt="code" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="">
+<img align="right" alt="code" width="400" src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="">
 
 &nbsp;&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muneebq1&label=Profile%20views&color=0e75b6&style=flat" alt="Muneebq1" /> </p>
 
