@@ -1,5 +1,5 @@
-<h1 align="center"> 👋 Hi, I’m Muneeb shahzad</h1>
-<h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=157FA9&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Muneeb+;%F0%9F%92%BB+A+Passionate+Full-Stack+Developer+;From+Karachi%2C+Pakistan+;%F0%9F%87%B5%F0%9F%87%B0+d" alt="Typing SVG" /></a>
+
 <img align="right" alt="code" width="400" src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="">
 
 &nbsp;&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muneebq1&label=Profile%20views&color=0e75b6&style=flat" alt="Muneebq1" /> </p>
