@@ -3,8 +3,7 @@
 <hr>
 <h3 style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
 <img align="right" alt="code" width="400" src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="">
-<br>
-&nbsp;&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muneebq1&label=Profile%20views&color=0e75b6&style=flat" alt="Muneebq1" /> </p>
+<!-- &nbsp;&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muneebq1&label=Profile%20views&color=0e75b6&style=flat" alt="Muneebq1" /> </p> -->
 
 
 - 🌱 I’m currently learning <b>** Web Development, JavaScript **</b><br><br>
