@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning <b>** Web Development, JavaScript **</b><br><br>
 - ⛳️ MY 2022 Goal is <b>** Mastering JavaScript & Reactjs **</b><br><br>
-- 💞️ Always looking forward to collaborate on projects<br><br>
-- 💻 Dedicated to Work and seeking Experiences <br><br>
+- 💞️ Always looking forward to <b> collaborate on projects</b><br><br>
+- 💻 Dedicated to <b> Work and seeking Experiences</b> <br><br>
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 <p align="left">
