@@ -8,15 +8,15 @@
     src="https://komarev.com/ghpvc/?username=Muneebq1&label=Profile%20views&color=0e75b6&style=flat"
     alt="Muneebq1" /> </p>
 
-As a junior software developer, I am highly motivated to learn and grow as a developer. I am eager to apply my
+As a associate software developer, I am highly motivated to learn and grow as a developer. I am eager to apply my
 skills and knowledge to real-world projects and to work with a team to deliver high-quality code on schedule. I have
-a strong foundation in modern web development technologies, including React, JavaScript, HTML, and CSS, and I am
+a strong foundation in modern web development technologies, including React, JavaScript, ReactJs, NextJs, Tailwind, Material Ui etc and I am
 eager to expand my skillset and contribute to exciting and challenging projects. My work on Github demonstrates my
 attention to detail and problem-solving abilities. I am excited to continue learning and growing as a developer and
 to make meaningful contributions to the development community.
 
 - 🌱 I’m currently learning <b>** Nodejs **</b><br><br>
-- ⛳️ MY 2023 Goal is <b>** Mastering Web development **</b><br><br>
+- ⛳️ MY 2025 Goal is <b>** Mastering Mern stack development **</b><br><br>
 - 💞️ Always looking forward to <b> collaborate on projects</b><br><br>
 - 💻 Dedicated to <b> Work and seeking Experiences</b> <br><br>
 <hr>
