@@ -52,6 +52,7 @@ to make meaningful contributions to the development community.
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
 	height="40" /></a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
     title="Advance JavaScript with ES13" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -70,16 +71,6 @@ to make meaningful contributions to the development community.
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
         alt="Next.js" width="40" height="40" />
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
-        alt="Tailwind CSS" width="40" height="40" />
-</a>
-
-<a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material UI" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
-        alt="Material UI" width="40" height="40" />
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB" style="text-decoration: none;">
