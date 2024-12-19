@@ -59,6 +59,42 @@ to make meaningful contributions to the development community.
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-	alt="react" width="40" height="40" />
+        alt="React" width="40" height="40" />
 </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        alt="TypeScript" width="40" height="40" />
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+        alt="Next.js" width="40" height="40" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+        alt="Tailwind CSS" width="40" height="40" />
+</a>
+
+<a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material UI" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
+        alt="Material UI" width="40" height="40" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        alt="MongoDB" width="40" height="40" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer" title="Node.js" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="Node.js" width="40" height="40" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express.js" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+        alt="Express.js" width="40" height="40" />
+</a>
+
 </p>
